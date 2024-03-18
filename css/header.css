@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.menu{
+    display: flex;
+    font-size: 4rem;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    font-size: 3rem;
+}

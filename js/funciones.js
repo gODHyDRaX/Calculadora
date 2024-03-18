@@ -1,0 +1,1 @@
+import { caracter } from "./Data.js";
